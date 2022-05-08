@@ -44,4 +44,5 @@ All data analysis for the project - including python, excel(.csv) and other docu
 
 ## Excel 
 
+File name : SIMD_MSOA_domestic_gas_elec_2020_forStatisticAnalysis.xlsx  
 made a Correlation Coefficient and linear regression statistical analysis in the Excel file
