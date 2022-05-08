@@ -2,6 +2,25 @@
 """
 %PeopleIncomeDeprived >= 25% and energyEfficiency <= 80 %
 by Phoebe Chen 05/2022 
+
+Project :
+This project is aming to presents the percentage of population income deprived >= 25% AND energy efficiency <= 80% on a Plotly Choropleth Map.
+
+Process :
+postcode area
+100*income_count/total pop
+energy efficiency
+encoded %incomedeprived >=25%
+encode average energy efficiency <=80%
+
+
+Libraries and tools need :
+Install and import all the libraries for this project.
+
+Install Plotly package
+import drive and files libraries from google.colab for open files in google drive
+import JSON, pandas for retreveing, formatting and processing data
+import Plotly express and io libraries for plotting
 """
 
 !pip install plotly
