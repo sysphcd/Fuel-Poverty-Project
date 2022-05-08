@@ -3,6 +3,7 @@ Fuel Poverty Project is a collaborate work with a team of Code Division.
 
 # Tools we used for collaborating: 
 -  Slack
+-  spatial.chat
 -  Moodle
 -  Miro 
 -  Trello 
