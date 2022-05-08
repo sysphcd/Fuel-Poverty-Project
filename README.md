@@ -1,5 +1,16 @@
 # Fuel-Poverty-Project
-Fuel Poverty Project
+Fuel Poverty Project is a collaborate work with a team of Code Division. 
+
+# Tools we used for collaborating: 
+-  Slack
+-  Moodle
+-  Miro 
+-  Trello 
+-  GitHub
+-  Google shared Drive 
+-  Colab & VSCode
+-  Excel , Python
+
 # data-analysis
 All data analysis for the project - including python, excel(.csv) and other documents.
 
