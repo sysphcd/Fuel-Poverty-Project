@@ -3,6 +3,27 @@
 
 Glasgow Districts Median Energy Efficiency and Median Energy Consumption current (2020 Q1-Q4, 2021 Q1-Q2) on Plotly Choropleth Map
 by Phoebe chen 05/2022
+
+
+Project :
+This project is aming to presents the median energy efficiency and median energy consumption on a Plotly Choropleth Map.
+
+Process :
+retrieve data from EPC csv files
+filter with POSTCODE begins with G (Glasgow)
+Concatenate all EPC dataframes
+Calcuatle the meidan energy efficiency and median energy consumption for each Glasgow district
+Merge both of median energy efficiency and median energy consumption in one dataframe
+Generate a Plotly Choropleth Map
+
+
+Libraries and tools need :
+Install and import all the libraries for this project.
+
+Install Plotly package
+import drive and files libraries from google.colab for open files in google drive
+import JSON, pandas for retreveing, formatting and processing data
+import Plotly express and io libraries for plotting
 """
 
 !pip install plotly
