@@ -42,3 +42,6 @@ All data analysis for the project - including python, excel(.csv) and other docu
 [https://sysphcd.github.io/Glasgow-Districts-Median-current-energy-efficiency-plot.html]  
 [https://sysphcd.github.io/Glasgow-Districts-Median-Energy-Consumption-plot.html]
 
+## Excel 
+
+made a Correlation Coefficient and linear regression statistical analysis in the Excel file
