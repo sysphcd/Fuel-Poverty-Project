@@ -1,7 +1,11 @@
 # Fuel-Poverty-Project
 Fuel Poverty Project is a collaborate work with a team of Code Division. 
 [Project Link](https://codedivision.co.uk/fuelpovertyproject)
+
 [Gantt](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/gantt.png)
+
+
+
 
 # Tools we used for collaborating: 
 -  Slack
@@ -33,6 +37,13 @@ All data analysis for the project - including python, excel(.csv) and other docu
 
 
 ### Plotly Choropleth Map shows Median Energy Efficiency and Median Energy Consumption in Glasgow. 
+![Percentage income deprived and average energy efficiency](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/percetincomedeprived_avgenergyefficiency_plot.png)
+
+![Glasgow Districs Median energy efficiency](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/Glasgow-Districts-Median-current-energy-efficiency-plot.png)
+
+![Glasgow districs median energy consumption](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/Glasgow-Districts-Median-Energy-Consumption-plot.png)
+
+
 ### File used   - fp_epc_onmap.py, 
             - Glasgow.geojson 
             - D_EPC_data_2020_Q1_extract_0721.zip
