@@ -1,6 +1,7 @@
 # Fuel-Poverty-Project
 Fuel Poverty Project is a collaborate work with a team of Code Division. 
 [Project Link](https://codedivision.co.uk/fuelpovertyproject)
+[Gantt](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/gantt.png)
 
 # Tools we used for collaborating: 
 -  Slack
