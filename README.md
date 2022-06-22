@@ -62,5 +62,11 @@ All data analysis for the project - including python, excel(.csv) and other docu
 File name : SIMD_MSOA_domestic_gas_elec_2020_forStatisticAnalysis.xlsx  
 made a Correlation Coefficient and linear regression statistical analysis in the Excel file
 
+![Linear Regression](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/coefficientRegression.png)
+
+![Data Statistic](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/DataStatistic.png)
+
+![Data Statistic Calculation](https://github.com/sysphcd/Fuel-Poverty-Project/blob/main/DataStatisticCalculation.png)
+
 
 
